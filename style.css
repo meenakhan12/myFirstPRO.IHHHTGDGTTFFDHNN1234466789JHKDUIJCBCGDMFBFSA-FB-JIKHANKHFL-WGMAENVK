@@ -1,0 +1,61 @@
+    body{
+ text-align: center;
+
+    }
+    
+    
+    h1{
+        text-align: center;
+    color: black;
+    font-size: 100px;
+    font-family: cursive;
+                            }
+                          
+
+
+        th,td{
+    padding: 15px;
+   }
+
+
+            table{
+            position: relative;
+            left: 600px;
+                            }
+
+/* 
+                h1,h2{position: relative;
+                    left: 600px;} */
+
+
+                    
+
+
+
+                            table,tr,th,td{
+                             border: 2px solid black;
+                                border-collapse: collapse;
+                                length:700px;
+                                      width:200px;
+                                         }
+
+                                    button {position: relative;
+                                          left: 700px;height: 30px;
+                                               width: 150px;
+                                            
+                                          color: white;
+                                          BORDER-RADIU :200px;
+                                        }
+                                               form{
+                                                position:relative;left: 700px;width: 200px;
+                                               }
+                                               label{font-size: 60px;}
+                                               /* h1{
+                                                position: relative;left: 700px;width: 200px; */
+                                               
+                                              input{
+                                               background-color:gray;
+                                               color: white;
+                                               }
+
+                                               
